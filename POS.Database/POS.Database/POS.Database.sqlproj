@@ -54,4 +54,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Store.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="POS.Database.refactorlog" />
+  </ItemGroup>
 </Project>
